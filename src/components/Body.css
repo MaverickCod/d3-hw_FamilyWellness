@@ -1,36 +1,39 @@
 /* src/Body.css */
 .body {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  .image-section img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .promo-section {
-    background-color: #800040;
-    color: white;
-    padding: 20px;
-  }
-  
-  .promo-buttons button {
-    background-color: white;
-    color: #800040;
-    border: 2px solid white;
-    margin: 10px;
-    padding: 10px 20px;
-    cursor: pointer;
-  }
-  
-  .promo-buttons button:hover {
-    background-color: #800040;
-    color: white;
-  }
-  
-  .info-section {
-    margin-top: 20px;
-    text-align: left;
-  }
-  
+  text-align: center;
+  padding: 20px;
+}
+
+.image-section img {
+  width: 100%;
+  height: auto;
+}
+
+.promo-section {
+  background-color: #800040;
+  color: white;
+  padding: 20px;
+}
+
+.promo-buttons button {
+  background-color: white;
+  color: #800040;
+  border: 2px solid white;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.promo-buttons button:hover {
+  background-color: #800040;
+  color: white;
+}
+
+.info-section {
+  margin-top: 20px;
+  text-align: left;
+}
+
+#red-text {
+  color: red;
+}

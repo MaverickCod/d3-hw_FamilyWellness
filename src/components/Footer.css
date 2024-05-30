@@ -1,7 +1,7 @@
 /* src/Footer.css */
 .footer {
-    background-color: #f8f8f8;
-    padding: 20px;
+    background-color: #d8d7d7;
+    padding: 5px;
     text-align: center;
     color: #333;
   }
@@ -10,3 +10,7 @@
     margin-bottom: 20px;
   }
   
+  .center {
+    padding: 5px;
+    text-align: center;
+  }
